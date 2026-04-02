@@ -37,7 +37,7 @@ This is the **React-based Full-stack application** of the Car Rental System buil
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SakethKumarTallam/CarRentalWeb
+git clone https://github.com/sivap365/CarRentalWeb
 cd CarRentalWeb
 ```
 
@@ -57,7 +57,7 @@ npm start
 The frontend communicates with a backend API server built using Express and MongoDB.
 
 
-[Backend repo URL](https://github.com/SakethKumarTallam/CRBackend)
+[Backend repo URL](https://github.com/sivap365/CRBackend)
 
 
 ## Environment Configuration
